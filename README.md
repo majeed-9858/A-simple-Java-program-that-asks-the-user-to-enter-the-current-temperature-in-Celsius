@@ -1,0 +1,2 @@
+# A-simple-Java-program-that-asks-the-user-to-enter-the-current-temperature-in-Celsius
+A simple Java program that asks the user to enter the current temperature in Celsius and provides advice based on it. Demonstrates the use of Scanner for user input and conditional statements (if-else) to categorize temperatures as hot, warm, pleasant, or cold. Ideal for beginners learning Java basics and control flow.
